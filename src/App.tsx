@@ -3,6 +3,9 @@ import "./App.css";
 
 import React from "react";
 
+// TODO: add changesets
+// TODO: add touch listener on useMousePostion
+// TODO: scale up cursor as we get closer to the center
 import { useMousePosition } from "./hooks/use-mouse-postion";
 
 function App() {
